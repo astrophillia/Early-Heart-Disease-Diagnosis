@@ -1,0 +1,1 @@
+This project is comapring a dummy dataset of 1200 people with socio-economical factors and 4 clinial factors and real-world dataset obtained from mendeley data containing 1000 datapoints woth 12 clinical features
